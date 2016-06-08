@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:43.876754
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 請觀音經疏闡義鈔
 #+PROPERTY: CBETA_ID T39n1801
 #+PROPERTY: ID KR6j0730
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1801
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0730_T_000-0977a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0730_T_003-0989a> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 請觀音經疏闡義鈔卷第三¶
+請觀音經疏闡義鈔卷第三¶
 ¶
 宋錢唐沙門釋智圓述¶
 

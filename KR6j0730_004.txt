@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:43.908283
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 請觀音經疏闡義鈔
 #+PROPERTY: CBETA_ID T39n1801
 #+PROPERTY: ID KR6j0730
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1801
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0730_T_000-0977a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0730_T_004-0997a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 請觀音經疏闡義鈔卷第四¶
+請觀音經疏闡義鈔卷第四¶
 ¶
 宋錢唐沙門釋智圓述¶
 
@@ -466,7 +465,7 @@
 根微細者。對身即身根麁大故。意根若領等¶
 者。釋五根皆寄身根法塵也。意根懸思五塵。¶
 即是領納法塵也。已虛有諸觸者。非實對色¶
-等境。但心思色等時則眼等已虛。有色等諸¶
+等境。但心思色等時則眼等巳虛。有色等諸¶
 觸也。文剩備至二字。不然則虛有下闕領受¶
 二字。故言下牒經。故知經舉五塵皆是心意¶
 懸思。乃屬法塵耳。與細滑相應即是心思時

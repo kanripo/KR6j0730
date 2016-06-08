@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:43.816341
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 請觀音經疏闡義鈔
 #+PROPERTY: CBETA_ID T39n1801
 #+PROPERTY: ID KR6j0730
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1801
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0730_T_000-0977a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0730_T_001-0977a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1801[cf.Nos.1043,1800]¶
+No. 1801 [cf. Nos. 1043, 1800]¶
 
-請觀音經疏闡義鈔序
-:PROPERTIES:
-:head: 請觀音經疏闡義鈔序
-:END:
-¶
+* 請觀音經疏闡義鈔序¶
 ¶
 
 此疏自智者演說。章安記錄。古來人師無聞¶
@@ -34,8 +30,7 @@ No.1801[cf.Nos.1043,1800]¶
 明。於南塔上方病中序。¶
 ¶
 ¶
-
- 請觀音經疏闡義鈔卷第一¶
+請觀音經疏闡義鈔卷第一¶
 ¶
 宋錢唐沙門釋智圓述¶
 

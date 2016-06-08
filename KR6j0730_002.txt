@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:43.851200
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 請觀音經疏闡義鈔
 #+PROPERTY: CBETA_ID T39n1801
 #+PROPERTY: ID KR6j0730
